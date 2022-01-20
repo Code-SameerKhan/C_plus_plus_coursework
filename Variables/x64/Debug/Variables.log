@@ -1,4 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Variables.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Data_types.cpp
-C:\Users\sameer\Desktop\C++\repos\Variables\Data_types.cpp(10,23): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Variables.vcxproj -> C:\Users\sameer\Desktop\C++\repos\Variables\x64\Debug\Data_types.exe
