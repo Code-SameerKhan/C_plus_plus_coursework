@@ -1,0 +1,4 @@
+﻿  10. Functions.cpp
+C:\Users\sameer\Desktop\C_plus_plus_coursework\10. Functions\10. Functions.cpp(22,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\sameer\Desktop\C_plus_plus_coursework\10. Functions\10. Functions.cpp(67,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  10. Functions.vcxproj -> C:\Users\sameer\Desktop\C_plus_plus_coursework\10. Functions\x64\Debug\10. Functions.exe
