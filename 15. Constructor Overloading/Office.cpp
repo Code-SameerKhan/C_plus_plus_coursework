@@ -1,7 +1,7 @@
 #include "Office.h"
 #include<sstream>
 
-Office::Office(string newName) {
+Office::Office(string newName) {		// Constructor with same name
 	name = newName;
 	age = 40;
 	salary = 80000;
@@ -35,7 +35,7 @@ Office::Office() {
 }
 
 string Office::toString() {
-	stringstream ss;
+	stringstream ss;		// String stream to output strings in one line
 
 	ss << "Name: ";
 	ss << name;
